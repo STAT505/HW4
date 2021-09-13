@@ -5,9 +5,9 @@
 
 Simulate and plot synthetic data with:
 
-a. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x, with residual standard deviation of 3.9
-b. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x, with residual standard deviation of 10
-c. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x^2, with residual standard deviation of 3.9
+1. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x, with residual standard deviation of 3.9  
+2. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x, with residual standard deviation of 10  
+3. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x^2, with residual standard deviation of 3.9
 
 ### 2. (ROS 1.3) 3 points
 
