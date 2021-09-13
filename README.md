@@ -1,21 +1,26 @@
 # HW 4
 
 
-### 1. (ROS 2.7) 2 points
+### 1. (ROS 1.2) 4 points
 
-- a. Give an example of a scenario of measurements that have validity but not reliability.
-- b. Give an example of a scenario of measurements that have reliability but not validity.
+Simulate and plot synthetic data with:
 
+a. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x, with residual standard deviation of 3.9
+b. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x, with residual standard deviation of 10
+c. x in the range of 0 to 4 percent corresponding to the regression line with y = 30 + 10 x^2, with residual standard deviation of 3.9
 
-### 2. (ROS 3.3) 2 points
+### 2. (ROS 1.3) 3 points
 
-Using R, graph probability densities for the normal distribution with several different curves corresponding to different choices of mean and standard deviation parameters. 
+Propose a situation where you might
 
-### 3. (ROS 3.6) 2 points
+1. Fit a regression model to estimate a relationship of interest
+2. Use a regression model to adjust for differences between treatment and control groups
+3. Use a regression model to make predictions.
 
-A test is graded from 0 to 50, with an average score of 35 and a standard deviation of 10. For comparison to other tests, it would be convenient to rescale to a mean of 100 and a standard deviation of 15.
+### 3. (ROS 1.4) 2 points
 
-- a. Label the original test scores as $x$ and the rescaled scores as $y$, come up with a linear transformation ($y = ax _ b$) so that y has mean 100 and standard deviation 15.
+Give examples of applied statistics problems of interest to you in which there are challenges in
 
-- b. what is the range of possible values for $y$?
+1. Generalizing from a sample to population
+2. Generalizing from a treatment to a control group
 
